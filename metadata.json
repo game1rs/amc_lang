@@ -1,0 +1,6 @@
+{
+  "name": "Signalbench",
+  "description": "Bidirectional English to Advanced Morse Code (AMC) translator with full symbol support, 4-pulse quaternary encoding, rotor ciphering, and acoustic synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
